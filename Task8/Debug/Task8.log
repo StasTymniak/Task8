@@ -1,0 +1,6 @@
+﻿  Input.cpp
+C:\Users\tymni\source\repos\Task8\Input.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tymni\source\repos\Task8\Input.cpp(54,23): warning C4018: '<': signed/unsigned mismatch
+  Task8.cpp
+  Generating Code...
+  Task8.vcxproj -> C:\Users\tymni\source\repos\Task8\Debug\Task8.exe
